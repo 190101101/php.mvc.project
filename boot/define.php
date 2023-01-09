@@ -2,7 +2,7 @@
 
 #DB
 const DBHOST = '127.0.0.1';
-const DBNAME = 'blog';
+const DBNAME = 'xcode';
 const UTF    = 'charset=utf8';
 const DBUSER = 'root';
 const DBPASS = '';

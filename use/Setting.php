@@ -9,7 +9,6 @@ class Setting
 
 	public static function key($method)
 	{
-
 		$data = db()->t1('setting', 2);
 
 		foreach($data as $key)
